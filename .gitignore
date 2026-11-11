@@ -1,0 +1,18 @@
+# Environnement virtuel
+venv/
+env/
+
+# Dossiers de compilation PyInstaller
+build/
+dist/
+*.spec
+
+# Fichiers de cache Python
+__pycache__/
+*.pyc
+
+# Dossier de Release et Binaires (à uploader manuellement dans l'onglet "Releases" de GitHub)
+bin/
+Sanit800_Release/
+test.jpg
+dossier_test/
